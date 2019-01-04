@@ -32,7 +32,6 @@
 ```
     $ roslaunch lidar_obstacle_avoidance demo.launch
 ```
-#### Configuration
 
 
 
