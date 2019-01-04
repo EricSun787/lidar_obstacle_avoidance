@@ -9,8 +9,10 @@ LOA_CORE::LOA_CORE()
     
 
     std::string scan_topic_;
-    std_msgs::Bool init_flag_;
-    init_flag_.data = false;
+    //std_msgs::Bool init_flag_;
+    //init_flag_.data = false;
+
+
 
 
     nh_p.param<std::string>("scan_topic",scan_topic_,"/scan_1");

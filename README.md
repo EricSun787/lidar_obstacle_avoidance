@@ -1,6 +1,6 @@
 ### lidar_obstacle_avoidance
 
-**A simple tool to split the lidar data into multiple areas, just like multiple ultrasonic sensors** 
+>A simple tool to split the lidar data into multiple areas, just like multiple ultrasonic sensors
 >Author: Sunshengjin @MindPointEye
 1012116832@qq.com
 
@@ -26,6 +26,14 @@
     $ rospack profile
 ```
 ##### Step 3
+>  Please run your *lidar driver node*
+>   **Note**:Make sure your lidar publish topic is as seem as the topic setting which in the demo.launch.  
+>  Then you can run this tool:
+```
+    $ roslaunch lidar_obstacle_avoidance demo.launch
+```
+#### Configuration
+
 
 
 
