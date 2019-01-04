@@ -1,6 +1,7 @@
 ### lidar_obstacle_avoidance
 
->A simple tool to split the lidar data into multiple areas, just like multiple ultrasonic sensors
+A simple tool to split the lidar data into multiple areas, just like multiple ultrasonic sensors
+
 >Author: Sunshengjin @MindPointEye
 1012116832@qq.com
 
